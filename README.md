@@ -19,3 +19,4 @@ cat file.txt *exibe o conteúdo do arquivo no prompt*
 
 ## Contato ## 
 email: robs.soares@gmail.com
+email não entrou no git
